@@ -1,2 +1,5 @@
 Greet msg created
-from local repo
+
+modified in remote
+
+again changed in remote
