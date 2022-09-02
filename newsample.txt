@@ -1,1 +1,3 @@
 this is a new sample
+
+edited in remote in local app
